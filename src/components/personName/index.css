@@ -1,0 +1,12 @@
+.person{
+    margin: 20px;
+    padding: 10px;
+    border: 1px black solid;
+    width: 250px;
+    flex-direction: column;
+}
+
+.person img{
+    display: block;
+    margin: 0 auto;
+}

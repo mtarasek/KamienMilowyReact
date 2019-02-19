@@ -1,0 +1,11 @@
+#container-home{
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 10%;
+background-color: rgb(223, 223, 210);
+}
+
+#container-home img{
+    width: 30%;
+}
